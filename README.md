@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>WORK IN PROGRESS</b>
-  - [WORK IN PROGRESS](https://github.com/alessandrocapua/)
+- <b>Security</b>
+  - [Post Exit Investigation: Search Desktop Files, Outlook Data, OneNote](https://github.com/alessandrocapua/PEI-Forensic-Toolkit)
+- <b>Automation and AI</b>
+  - [Task Scheduler Report AD Users,AD Groups, SCCM Computers](https://github.com/alessandrocapua/AD-SCCM-Reporting-Tools)
 
 
 <h2> 🤳 Connect with me:</h2>
