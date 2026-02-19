@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Ciao, I'm Alessandro! <br/><a href="https://github.com/alessandrocapua">IT Engineer</a>, <a href="https://www.linkedin.com/in/alessandrocapua/">Digital Transformation and Microsoft 365</a> </h1>
+
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>WORK IN PROGRESS</b>
+  - [WORK IN PROGRESS](https://github.com/alessandrocapua/)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AlessandroCapua | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AlessandroCapua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JAlessandroCapua | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AlessandroCapua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://github.com/alessandrocapua/
+[youtube]: https://github.com/alessandrocapua/
+[instagram]: https://github.com/alessandrocapua/
+[linkedin]: https://linkedin.com/in/alessandrocapua
 
 <!--
-**alessandrocapua/alessandrocapua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
